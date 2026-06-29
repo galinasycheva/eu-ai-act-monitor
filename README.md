@@ -34,3 +34,17 @@ The project follows a standard ETL/Data Pipeline architecture:
 ├── eu_ai_act_monitor.db   # SQLite database storage
 ├── requirements.txt       # Project dependencies
 └── README.md              # Project documentation
+## 🛠 Tech Stack
+* **Core Language:** Python
+* **Data Analysis:** Pandas, Openpyxl
+* **Database Management:** SQLite3, SQL (INNER JOIN)
+* **Dashboard / BI:** Streamlit
+
+---
+
+## 💻 How to Run Locally
+
+1. Clone the repository:
+```bash
+git clone [https://github.com/galinasycheva/eu-ai-act-monitor.git](https://github.com/galinasycheva/eu-ai-act-monitor.git)
+cd eu-ai-act-monitor
