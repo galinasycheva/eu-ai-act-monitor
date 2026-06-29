@@ -1,0 +1,240 @@
+company_name,hq_country,industry,description,risk_category,confidence_score,detected_triggers
+Monster Puppet Corporation,Spain,Spain,"videogames, tech-art, technical-animation, co-development",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Little Paper Towns,Spain,Spain,"Local, Expats, Adventures, Exploration",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+GENBIOMA,Spain,Spain,"Microbiome, Metabolic Health, Diabetes",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Letterly,Spain,Spain,"voice, text, ai, writing",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+SERP Empire,Spain,Spain,"SEO, Advertising, Digital Marketing, Marketing, Serp, Keywords, SEO Platform, Traffic",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Waverox,Spain,Spain,"mind tracker, mental health, wellness app",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Fracttal,Spain,Spain,"Maintenance, IoT, Smart Maintenance, Technology",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Easymailing,Spain,Spain,"Marketing, Email Marketing, Digital Marketing, Automated Marketing",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+INSECT BIOTECH GROUP,Spain,Spain,"agriculture, waste, sustainable, protein",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Kliks Digital,Spain,Spain,"seo, lead generation, growth marketing, linkedin content",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Indaru,Spain,Spain,"data science, marketing, audits",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Marketing from the Heart | Fractional CMO,Spain,Spain,"CMO, Marketing, Fractional CMO",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+AI Prompter JOBS,Spain,Spain,"IA, Trabajos, Ingenieros Prompts",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+LEVOX,Spain,Spain,"batteries, data, swapping, fast",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+oceansix,Spain,Spain,"reusable packaging, ecommerce, sustainable engineering",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+BetterPic,Spain,Spain,"Avatars, Image Generator, Business Portraits",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Salupeques,Spain,Spain,"health, baby, youths",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+DITEC Technology,Spain,Spain,"soluciones,tecnología,antivirus",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+YourTeam.tech,Spain,Spain,"Recruiment Services, Staffing Agency, Hr",High Risk,0.95,Automated human/financial evaluation or HR systems
+Rally – LGBTQ+ Sports and Fitness,Spain,Spain,"Sports Teams, Clubs, Community, Social Network",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Paseo,Spain,Spain,"Apps, Travel, Technology, Information",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+NM-IoT,Spain,Spain,"IT, Internet, Information",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Flexyfreight,Spain,Spain,"supply chain, online platform, LCL shipping",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Cardee Technologies,Spain,Spain,"Mobile Apps, Software, Digital business cards",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Asprofa,Spain,Spain,"Pharmacy, Community Pharmacy, Hospital Pharmacy, Pharmaceutical Industry",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Reviewly,Spain,Spain,"HR, Recruiting, Candidate evaluation",High Risk,0.95,Automated human/financial evaluation or HR systems
+WERTYK,Spain,Spain,"Blockchain Services, Fintech, Real State",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Vankor,Spain,Spain,"Blockchain, Finance, DeFi",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Teen,Spain,Spain,"Human Resources, Hiring, Software Development",High Risk,0.95,Automated human/financial evaluation or HR systems
+RobinSun,Spain,Spain,"Solar Energy, eCommerce, Renewable energy",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Rally,Spain,Spain,"Sports Teams, Clubs, Social Network, LGBT",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Mineo,Spain,Spain,"Analytics, SaaS, Software, Data Infrastructure",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+ioni,Spain,Spain,"customer support, generative AI, automation, chatGPT",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Hola Cosmos,Spain,Spain,"Individual, Family Services, Healthtech",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+D-Sight,Spain,Spain,"Biotechnology Research, Healthcare, neurodegenerative diseases",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Dedge Security,Spain,Spain,"Blockchain, Cyber Security, Net Security",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Wilgo,Spain,Spain,"Financial Services, FinTech, Real state",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Mitte,Spain,Spain,"SaaS, Software company, IT Services",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+iKing.io,Spain,Spain,"Bitcoin, Crptocurrency, blockchain, e-commerce",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Hydros Power,Spain,Spain,"Renewable Energy, Power Generation, Insdutrial",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Clous,Spain,Spain,"Software Development, SaaS, Human Resources",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Cardee,Spain,Spain,"Software, Tech, Internet",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+BlackfishID,Spain,Spain,"Computer Tech, Network Security, Artificial Intelligence",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Claroly,Spain,Spain,"E-commerce, Retail, B2B",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+QR-PAY,Spain,Spain,"payment app, finance, qr payments, Hospitality",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Droyz Toys,Spain,Spain,"phygital, collectibles, technology, blockchain",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+GELUKIG,Spain,Spain,"Mental Health, Wellness, Emotions, Mobile App",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Grow My Enterprise,Spain,Spain,"Marketing, Strategy, Digital, Innovation",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Feature Flux,Spain,Spain,"Apps, Software, SaaS, B2B, Product Management, Product Design, Technology.",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Formadores IT,Spain,Spain,"edtech, education, big data, data science",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+TemplatesGo,Spain,Spain,"Saas, document generator",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Villae,Spain,Spain,"Real Estate, SaaS, PropTech, Software",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Voicit,Spain,Spain,"Software Development, transcription services, automated processes",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+WE,Spain,Spain,"mobile app, Software, online shopping",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Kodo People,Spain,Spain,"Behavioral Science, Talent Intelligence, Assessment",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+CRUWI,Spain,Spain,"Ecommerce, Marketing, Referral",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Crowdgenix,Spain,Spain,"DEX, Multi-asset Classes,",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Cober.io,Spain,Spain,"ECommerce Businesses, Internet Outages",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Clevergy,Spain,Spain,"Energy, Software, Transition",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Buscoresi,Spain,Spain,"Software Development,Top Priorities, Perfect student",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Amaxwire,Spain,Spain,"ress & newswire, news platform, websites",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Bloome,Spain,Spain,"dermatology , medical treatments, face hydration",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Biela,Spain,Spain,"IT ,marketing projects, B2B",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Basquevolt,Spain,Spain,"Lithium batteries, Electric transportation, Solid-state batteries",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Atomic.green,Spain,Spain,"APR,DEXes, Blockchain, Timeus Lab",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+ARTIAL,Spain,Spain,"AI-driven, BVLOS,",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Animum,Spain,Spain,"Art and Digital Technology, 3D Production Area, Videogames, Building and Advertising industries",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Tonto,Spain,Spain,"social audio app, podcast app, voice recorder",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Samara,Spain,Spain,"energy, household, clean tech, sustainability",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Piktalent,Spain,Spain,"employability, universities",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Pueblos Españoles,Spain,Spain,"turismo, repoblar, pueblos",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Muoki,Spain,Spain,"marketplace, second-hand, furniture, online",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Orbyn,Spain,Spain,"fintech, financial services,",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Trackey,Spain,Spain,#customerfeedback #productgrowth #feedbackloops #productdiscovery,Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+evesi,Spain,Spain,"ai, advertising, public relations,",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Workables,Spain,Spain,"Business Content, Music, Advertising",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+WOODEA,Spain,Spain,"contech, industrialized construction, technical wood, building",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+WeBind,Spain,Spain,"Insurance, Insurtech, Civil Liability, Online sales",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+WE,Spain,Spain,"Retail, Apparel, Fashion, Shopping",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+WAVIC,Spain,Spain,"Musicians, Music, Producer, Band",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Watt Deep Tech,Spain,Spain,"artificial intelligence, data science, deep technology, electric vehicles",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+VUMI,Spain,Spain,"Software Development, Wealth Technology, Data Aggregation, Investment Reporting",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Voltic,Spain,Spain,"Wireless Services, IoT, Home automation, Smart lighting",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Unlockd,Spain,Spain,"Financial Services, Decentralized Finance, Blockchain, NFT financialization",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Tookey.io,Spain,Spain,"Blockchain Services, Cryptocurrecny, Cyber Security, FinTech",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+The Marvelous Brand,Spain,Spain,"E-commerce, Retail, Fashion, Film",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+TECO Global Mobility,Spain,Spain,"Mobility, Micromobility, Electric Vehicles, Software",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Taxicoin,Spain,Spain,"Apps, Blockchain, Tax Service, Technology",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Tasker Army,Spain,Spain,"Advertising Services, Web Development, Graphic Design, Copywriting",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Sumer,Spain,Spain,"Blockchain Services, Analytics, Developers Tools",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Solved,Spain,Spain,"Software Development, SaaS, Industrial Manufacturing, Food and Beverage",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Smartur,Spain,Spain,"Furniture, Home Furnishings, Manufacturing, Hardware",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Silvia Lago,Spain,Spain,"Handmade, Manufacturing, Retail, Shoes",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Signalit,Spain,Spain,"Cloud Computing, IT, INternet, Information",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Sidra,Spain,Spain,"data platform, big data, data mesh, Machine Learning",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Servicialsoy,Spain,Spain,"service industry, WaaS, Services marketplace, staffing agency",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Saldados,Spain,Spain,"Legal Services, second chance law, eliminate debt, legaltech",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Rozett.ai,Spain,Spain,"Web3, Metaverse, 3D Fashion, Blockchain",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+REVER,Spain,Spain,"E-commerce, Online Portals, Software, Retail",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+QR-Payments,Spain,Spain,"Hospitality, Mobile Payments, Finance",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Praefy,Spain,Spain,"Real State, SaaS, Software Development",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Point Pressure,Spain,Spain,"Medical Equipment, Manufacturing, Helathcare, Professional Services",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Petinder.online,Spain,Spain,"Animals & Pets, Pet shelters, Pet hotels, Pets adoption",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Perif.ai,Spain,Spain,"Artificial Intelligence, IT, InsureTech, Software",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Palup,Spain,Spain,"Events Services, Mobile Apps, Social Platform",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Ourspace,Spain,Spain,"SaaS, Organizational design, People planning, Team collaboration",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Open Games Builders,Spain,Spain,"Blockchain, Web 3.0, NFT Game, Marketplace",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Onversed,Spain,Spain,"fashion tech, digital, 3D, metaverse",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+OneTel,Spain,Spain,"telecommunications, fiber, mobile, voip",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Niubi Studios,Spain,Spain,"UI/UX Design, SEO, Cloud, Data Analytics",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+niid,Spain,Spain,"Lifestyle Services, Personal Concierge, Personal Assistance, Talent Benefits",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Neuronik,Spain,Spain,"Human Resource, Software, Mental health platform, Artificial intelligence",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Nen,Spain,Spain,"Child Care, Gamification, Health Care, Digital Health",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Muse Scene Lab,Spain,Spain,"Education, EdTech, Music, Music Education",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Motive.co,Spain,Spain,"eCommerce, Product Search, Search ENgine, Enterprise Software",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+METAWORLDS,Spain,Spain,"Computer Games, game development, mobilegames, blockchain",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+MedBrain,Spain,Spain,"Health Care, Health Diagnostics, Medical",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Manax,Spain,Spain,"Technology, Information, Internet",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Lumo,Spain,Spain,"Real Estate, Property Management, Rental",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Levelab Technologies,Spain,Spain,"E-learning, EdTech, Education, STEM Education",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Legal 70,Spain,Spain,"Business Consulting, Services, Legal",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Leben Proyectos,Spain,Spain,"conditioning projects, Aerothermal, Fire protection",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Learn DAO,Spain,Spain,"blockchain, metaverse, web 3, NFT",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+LeapWave Technologies,Spain,Spain,"Radio Frequency, Photonics, Electronics",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Latitude,Spain,Spain,"Software Development, Data Apps, Design, collaborative",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Lantadu Solar,Spain,Spain,"Renewable Energy, Semiconductor, Manufacturing, B2B",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+KURIO,Spain,Spain,"Blockchain Services, 3D Printing, Jewelry",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Jolt Electrodes,Spain,Spain,"Renewable Energy, Equipment Manufacturing, Clean Energy, Chemical",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Jointy,Spain,Spain,"Fashion, Marketplace, Technology, Information",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+iris + arlo,Spain,Spain,"Health, Wellness, Fitness",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Invisipay,Spain,Spain,"Financial Services, Mobile Payments, Payments",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Ossby Folding Bikes,Spain,Spain,"Folding bike, ebike, bikes",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+ibero.app,Spain,Spain,"Software, Payment Gateway, Lean Six Sigma, Lean",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Humesol,Spain,Spain,"Construction, E-commerce, Online Portals",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Houzit,Spain,Spain,"Proptech, Real Estate, Rental Property",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+HotelManager,Spain,Spain,"SaaS, Hospiltality, Industry",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Host Box Online,Spain,Spain,"Technology, Information, Internet",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Honei,Spain,Spain,"Hospitality, Restaurants, CRm, QR Code",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Homter,Spain,Spain,"Online Mortgage Broker, FinTech, Rental, Real State",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Homeros,Spain,Spain,"luxury real estate, hospitality, customer experience",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Holders&Brothers,Spain,Spain,"Finance Services, Investments, Cryptocurrency, Advice",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Heskouri Calidad,Spain,Spain,"Business Consulting, Services, Software Validation",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Gretel.co,Spain,Spain,"Software Development, Saas, Company Communication",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Graniot,Spain,Spain,"Agritech, Satellite Monitoring, Agtech, Apps",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Floggy,Spain,Spain,"Technology, Information, Internet",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Flobers,Spain,Spain,"Renewable Energy, crowdfunding, crowdlending, Investment Management",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Fiuter,Spain,Spain,"Software Development, Machine Learning, Ecommerce, Artificial Intelligence",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Eventgow,Spain,Spain,"ANdroid, IOS, Mobile Apps, Software",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+EOXSense,Spain,Spain,"Biotechnology Research, Healthcare, IT",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+El Regimiento,Spain,Spain,"Mens Clothing, Retail, Fashion",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Dratio,Spain,Spain,"data, analytics, machine learning, artificial intelligence,",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Doki App,Spain,Spain,"Healthcare, Medical, Personal Health",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Digital Earth Solutions,Spain,Spain,"Environmental Services, Ocean Dynamics, Oil Spill Modelling, Deep Tech",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Deseos App,Spain,Spain,"Mobile App, Technology, Information, Internet",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Descorchify,Spain,Spain,"Retail, E-commerce, Subcription Services",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Deko Data,Spain,Spain,"Artificial Intelligence, Analytics, Big Data, Cloud",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Deep Design Systems,Spain,Spain,"Artificial Intelligence, Synthetic Design, Machine Learning",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Dawa,Spain,Spain,"ecommerce, internet, returns, operations, logistics",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Dataknit,Spain,Spain,"Software Development, ai, survey, cms",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+CYCLE PLATFORM,Spain,Spain,"Fashion, E-commerce, Retail Apparel",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+CULTZYME,Spain,Spain,"Biotechnology Research, Robotics, Software",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Crescenta,Spain,Spain,"Asset Management, Credit, Funding Platform, Software",High Risk,0.95,Automated human/financial evaluation or HR systems
+Coolx,Spain,Spain,"AI, Satellite Technology, Forest Engineering, Environmental Services",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Concierge Friend,Spain,Spain,"Apps, Hotel, Tourism, Travel",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Commerce Partners,Spain,Spain,"Wholesale Import, Export, Shipping, Logistics",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+CLIMATECOIN,Spain,Spain,"Environmental Services, Asset Management, Blockchain",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Clauteck,Spain,Spain,"Shopping, Retail, Locksmith",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Ciudadela,Spain,Spain,"real estate, property management, residential",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Cambiador de palabras,Spain,Spain,"Education, Social Media, Writing, Editing",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Borderless Money,Spain,Spain,"Consulting, Finance, Financial Services",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Boorie.ai,Spain,Spain,"Blockchain, Software, Water",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Bioeureka,Spain,Spain,"Medical device, Biotechnology, Biochemistry",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Beleaf,Spain,Spain,"Mobile App, Social Network, Photo, Video",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Beetested,Spain,Spain,"Computer Games, Artificial Intelligence, Video",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Banktrack,Spain,Spain,"Financial Services, messaging app, Banking",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Bakarts,Spain,Spain,"NFT, Art, Culture, marketplace",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Autocaravanas,Spain,Spain,"Rental, Camper Van, Services Compliment",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+ARZE,Spain,Spain,"Retail Apparel, Fashion, Design",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+ARA REFORMAS EUSKADI,Spain,Spain,"Architecture, interior design, economic reform services, Home Improvement",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+ApeSpace,Spain,Spain,"Financial Services, Analytics, Crypto",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Anviz,Spain,Spain,"Biometric, Surveillance, RFID, Access Control",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Amaxwire news & press release distribution,Spain,Spain,"pr, public relations, marketing",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Alimenttos,Spain,Spain,"Software Development, Farmers Market, Food, Beverage",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+AlÂ·lucinant Studio,Spain,Spain,"Marketing Services, website development, social media, legal marketing",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Airlingo,Spain,Spain,"SaaS, B2b, AI, Langauge Learning",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Jungle21,Spain,Spain,"Creative Agency, Advertising Services, Creativity, Consulting",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Singularly,Spain,Spain,"Artificial Intelligence, Enterprise Software, Retail Technology, SaaS",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Techaway Technologies,Spain,Spain,"Computer, Information Technology, Rental",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Aparkalo,Spain,Spain,"Marketplace, Rental Property, Real Estate",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Datarmony,Spain,Spain,"Artificial Intelligence, Machine Learning, Business Consulting",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Bemycar,Spain,Spain,"Automotive, Mobility",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Vacant,Spain,Spain,"E-Commerce, Fashion, Shoes",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Scoutim,Spain,Spain,"Events, Sports",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Master Me Up,Spain,Spain,"Education, Social Entrepreneurship, Training",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Wwave,Spain,Spain,"Energy, Renewable Energy",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+xNova International,Spain,Spain,"Analytics, Big Data, Business Intelligence",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Metrickal,Spain,Spain,"Consulting, Software, Outsourcing",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Crowmie,Spain,Spain,"Blockchain, Clean Energy, CleanTech, FinTech",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Threat Jammer,Spain,Spain,"Cyber Security, Fraud Detection, Software",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Intemic,Spain,Spain,"Design, Optimize, Platform",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Komi,Spain,Spain,Food and Beverage Services,Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Gretel,Spain,Spain,"B2B, Software Development, Company Communication",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Girafe Mentoring,Spain,Spain,"Data Science, Mentorship, Job landing",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Gaia,Spain,Spain,"Blockchain, Pioneer, Green Technologies",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Setroc,Spain,Spain,"Furniture, Home Furnishings Manufacturing, Smart Lockers",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Biuwer,Spain,Spain,"Business Intelligence, Big Data, Data Analysis, Dashboards",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Viridis,Spain,Spain,"Environmental Services, Digital Product, Eco-friendly products",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Yumminn,Spain,Spain,"Foodtech, Restaurants, Financial services",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Techaway,Spain,Spain,"Tech, rent, IT",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+WiPass,Spain,Spain,"wifi, establishment, internet",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Training Experience,Spain,Spain,"Recruitment, Blockchain, SaaS, Consulting",High Risk,0.95,Automated human/financial evaluation or HR systems
+Doki,Spain,Spain,"Technology, Helathcare, Medical",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Recycap Technologies,Spain,Spain,"Recycling, Service Industry, Automation",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+QRfy,Spain,Spain,"Qr Code, Software As A Service, QR Codes",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Tronando,Spain,Spain,"Internet News, Tech, Digital",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+The Hist,Spain,Spain,"Newspaper Publishing, Communication, Streaming, Blockchain",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Swap Your Travel,Spain,Spain,"Travel Arrangements, Transportation, digital platform",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Sustonica,Spain,Spain,"Hospitality, sustainability, tourism, vacation rentals",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+SimSkills,Spain,Spain,"Professional Training, Coaching, SaaS",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Rozett,Spain,Spain,"Web3, Metaverse, 3D Fashion, Blockchain",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+MyGreen,Spain,Spain,"Product Design, Product Formulation, Advertising, Communication",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Medea Mind,Spain,Spain,"Mental Health Care, SaaS, e-health",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Lexy,Spain,Spain,"Advertising Services, artificial intelligence, social media content",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Les Amis,Spain,Spain,"Social Networking, Platforms, Marketplace",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Laurel Gaming,Spain,Spain,"Entertainment, videogames, rewards, social apps",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+jolders,Spain,Spain,"blockchain, metaverse, social, media",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Invite,Spain,Spain,"mobile app, digital, tech",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Huru Ventures,Spain,Spain,"Computer Games, blockchain, finance",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Hub4Retail,Spain,Spain,"Data Infrastructure, Analytics, SaaS, Retail",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
+Flamme,Spain,Spain,"Consumer Services, Couples App, Relationships",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Hunger Brands,Spain,Spain,"Food, Beverage Services, Food delivery, Digital",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+MPL XR Company,Spain,Spain,"XR, Immerisve, technology, SaaS",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Kavan Health,Spain,Spain,"Mental Health, Software, Marketplace",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+3dthinks,Spain,Spain,"Software, 3d printing, distributive manufacturing",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Year One Partners,Spain,Spain,"International, Market, Entry, Advisory",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+StMetric,Spain,Spain,"metrics, marketing, analytics",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Capboard,Spain,Spain,"legal tech, equity management software, equity plan, cap table",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+ICARUS DRONE SYSTEMS,Spain,Spain,"drone, services, innovation, agrotech",Minimal Risk,0.85,"Standard software, web development, or traditional SaaS"
+Quasar Labs,Spain,Spain,"Blockchain, Cosmos, Defi, Tendermint",Specific Transparency Risk,0.9,AI/ML tech stack or generative models detected
