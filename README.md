@@ -51,3 +51,13 @@ The project follows a standard ETL/Data Pipeline architecture:
 git clone [https://github.com/galinasycheva/eu-ai-act-monitor.git](https://github.com/galinasycheva/eu-ai-act-monitor.git)
 cd eu-ai-act-monitor
 ```
+2. Install the required dependencies:
+```Bash
+pip install -r requirements.txt
+```
+3. Launch the Streamlit dashboard:
+```Bash
+python -m streamlit run src/app.py
+```
+📈 Insights & Analysis Results
+Out of the 239 Spanish tech companies analyzed, the vast majority fall under the Minimal Risk category. However, startups automating HR processes (such as CV scoring and recruitment) or heavily utilizing generative models (NLP chatbots, content creation) trigger additional audit and mandatory labeling requirements under the EU AI Act framework.
